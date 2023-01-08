@@ -1,0 +1,5 @@
+grpc:
+  client:
+    myServiceLogin:
+      address: static://localhost:9000
+      negotiationType: plaintext
